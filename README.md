@@ -11,6 +11,12 @@
 
 ---
 
+<p align="center">
+  <img src="assets/secops-vision.gif" alt="SecOps - Built by a learner, for learners" width="100%" />
+</p>
+
+---
+
 ## Overview
 
 **SecOps** is a cybersecurity curriculum and operational field reference engineered to bridge conceptual theory with practical system-level security engineering. The project covers adversary tradecraft, low-level OS internals (Linux and Windows), memory structures, defensive telemetry detection pipelines (Sysmon, Wazuh, Sigma), and structured virtual lab blueprints.
