@@ -12,7 +12,7 @@
 ---
 
 <p align="center">
-  <img src="assets/secops-vision.gif" alt="SecOps - Built by a learner, for learners" width="100%" />
+  <img src="assets/secops-walkthrough.gif" alt="SecOps - Built by a learner, for learners" width="100%" />
 </p>
 
 ---
